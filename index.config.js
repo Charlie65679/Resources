@@ -75,7 +75,6 @@ var index_config_default = {
       address: "https://php.doube.eu.org/spider/php/麻豆.php"}
 ]},
   cms: {list: [
-  {name: "影视星球", address: "https://www.ysxq.cc/api.php/provide/vod"},
   {name: "爱奇艺", address: "https://iqiyizyapi.com/api.php/provide/vod"},
   {name: "滴滴", address: "https://api.ddapi.cc/api.php/provide/vod"},
   {name: "番号", address: "http://fhapi9.com/api.php/provide/vod"},
