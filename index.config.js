@@ -79,7 +79,6 @@ var index_config_default = {
   {name: "滴滴", address: "https://api.ddapi.cc/api.php/provide/vod"},
   {name: "番号", address: "http://fhapi9.com/api.php/provide/vod"},
   {name: "黑料X", address: "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list"},
-  {name: "辣椒", address: "http://lajiaozy.com/api.php/provide/vod"},
   {name: "155", address: "https://155api.com/api.php/provide/vod"},
   {name: "AIvin", address: "http://lbapiby.com/api.php/provide/vod/at/json"},
   {name: "乐播", address: "https://lbapi9.com/api.php/provide/vod"},
