@@ -78,10 +78,10 @@ t4: {
 cms: {
   list: [
     { "name": "爱奇艺", "address": "https://iqiyizyapi.com/api.php/provide/vod" },
-    { "name": "滴滴", "address": "shturl.cc/d1AuoI0qh8p6oQdxM7lTHaGIvArfxl" },
-    { "name": "番号", "address": "shturl.cc/uLOGkDocWVgGNgi7S73ynYd2v2g" },
-    { "name": "黑料X", "address": "shturl.cc/2iiZmhMw1fiCVa2gd2XjGmBk0dFYoSJEJHwoxtdeem9xFDB" },
-    { "name": "155", "address": "shturl.cc/jSbKQwcVO94bPkBwrWQtoOkGbFzO" },
+    { "name": "滴滴", "address": "https://api.ddapi.cc/api.php/provide/vod" },
+    { "name": "番号", "address": "http://fhapi9.com/api.php/provide/vod" },
+    { "name": "黑料X", "address": "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list" },
+    { "name": "155", "address": "https://155api.com/api.php/provide/vod" },
     { "name": "AIvin", "address": "http://lbapiby.com/api.php/provide/vod/at/json" },
     { "name": "乐播", "address": "https://lbapi9.com/api.php/provide/vod" }
   ]
