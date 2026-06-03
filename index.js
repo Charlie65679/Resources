@@ -1,4 +1,3 @@
-
 globalThis.websiteBundle = function() {
   return `
     (function() {
