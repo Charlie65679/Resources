@@ -80,6 +80,7 @@ cms: {
     { "name": "爱奇艺", "address": "https://iqiyizyapi.com/api.php/provide/vod" },
     { "name": "影视星球", "address": "https://www.ysxq.cc/api.php/provide/vod" },
     { "name": "滴滴", "address": "https://api.ddapi.cc/api.php/provide/vod" },
+     { "name": "未知", "address": "https://19q.cc/api.php/provide/vod" },
     { "name": "黑料", "address": "https://www.heiliaozyapi.com/api.php/provide/vod" },
     { "name": "番号", "address": "http://fhapi9.com/api.php/provide/vod" },
     { "name": "155", "address": "https://155api.com/api.php/provide/vod" },
