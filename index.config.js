@@ -70,23 +70,24 @@ var index_config_default = {
           ],
     autoPush: true
   },
-t4: {
-  list: [
-    { "name": "聚合传媒", "address": "https://php.doube.eu.org/spider/php/麻豆.php" }
-  ]
-},
 cms: {
   list: [
     { "name": "爱奇艺", "address": "https://iqiyizyapi.com/api.php/provide/vod" },
-    { "name": "ikun", "address": "https://ikunzyapi.com/api.php/provide/vod" },
     { "name": "暴风", "address": "http://by.bfzyapi.com/api.php/provide/vod" },
+    { "name": "ikun", "address": "https://ikunzyapi.com/api.php/provide/vod" },
     { "name": "优质", "address": "http://api.yzzy-api.com/inc/apijson.php" },
+    { "name": "最大", "address": "http://zuidazy.me/api.php/provide/vod" },
     { "name": "滴滴", "address": "https://api.ddapi.cc/api.php/provide/vod" },
     { "name": "黑料", "address": "https://www.heiliaozyapi.com/api.php/provide/vod" },
     { "name": "番号", "address": "http://fhapi9.com/api.php/provide/vod" },
     { "name": "155", "address": "https://155api.com/api.php/provide/vod" },
     { "name": "AIvin", "address": "http://lbapiby.com/api.php/provide/vod/at/json" },
     { "name": "乐播", "address": "https://lbapi9.com/api.php/provide/vod" }
+  ]
+},
+t4: {
+  list: [
+    { "name": "聚合传媒", "address": "https://php.doube.eu.org/spider/php/麻豆.php" }
   ]
 },
   alist: [
