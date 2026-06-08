@@ -64,6 +64,9 @@ var index_config_default = {
     urls: [
            { address: "https://logdanmu.dpdns.org", name: "默认1" },
            { address: "https://fjj0417.dpdns.org/87654321", name: "默认2" }, 
+             { address: "https://danmu.wangziyang.top/", name: "默认3" }, 
+           { address: "https://dandan.wenjian.de/wenjian", name: "默认4" }, 
+           { address: "https://danmu.0000996.xyz/87654321", name: "默认5" }
           ],
     autoPush: true
   },
@@ -88,9 +91,12 @@ cms: {
 },
 t4: {
   list: [
-    { "name": "聚合传媒", "address": "https://php.doube.eu.org/spider/php/麻豆.php" }
-    { "name": "影视爬虫", "address": "https://dy.7772888.xyz/api.php/tvbox" }
-}
+    { "name": "聚合传媒", "address": "https://php.doube.eu.org/spider/php/麻豆.php" },
+    { "name": "影视爬虫", "address": "https://dy.7772888.xyz/api.php/tvbox" },
+    { "name": "电影天堂", "address": "https://php.doube.eu.org/spider/php/电影天堂.php" },
+    { "name": "官方", "address": "https://php.doube.eu.org/spider/php/官方资源.php" },
+    { "name": "非凡", "address": "https://php.doube.eu.org/spider/php/非凡资源.php" },
+    { "name": "欧乐", "address": "https://php.doube.eu.org/spider/php/欧乐影院.php" }
   ]
 },
   alist: [
