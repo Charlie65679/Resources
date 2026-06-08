@@ -93,10 +93,7 @@ t4: {
   list: [
     { "name": "聚合传媒", "address": "https://php.doube.eu.org/spider/php/麻豆.php" }
     { "name": "影视爬虫", "address": "https://dy.7772888.xyz/api.php/tvbox" }
-    { "name": "电影天堂", "address": "https://php.doube.eu.org/spider/php/电影天堂.php" }
-    { "name": "官方", "address": "https://php.doube.eu.org/spider/php/官方资源.php" }
-    { "name": "非凡", "address": "https://php.doube.eu.org/spider/php/非凡资源.php" }
-    { "name": "欧乐", "address": "https://php.doube.eu.org/spider/php/欧乐影院.php" }
+}
   ]
 },
   alist: [
