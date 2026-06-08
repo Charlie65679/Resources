@@ -64,9 +64,9 @@ var index_config_default = {
     urls: [
            { address: "https://logdanmu.dpdns.org", name: "默认1" },
            { address: "https://fjj0417.dpdns.org/87654321", name: "默认2" }, 
-           { address: "https://dm.stardm.us.kg:443/87654321", name: "默认3" }, 
-           { address: "https://danmu.14812910.xyz/87654321", name: "默认4" }, 
-           { address: "https://313236.xyz/87654321", name: "默认5" }
+           { address: "https://danmu.wangziyang.top/", name: "默认3" }, 
+           { address: "https://dandan.wenjian.de/wenjian", name: "默认4" }, 
+           { address: "https://danmu.0000996.xyz/87654321", name: "默认5" }
           ],
     autoPush: true
   },
