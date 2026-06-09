@@ -69,11 +69,9 @@ var index_config_default = {
   },
 cms: {
   list: [
-    { "name": "爱奇艺", "address": "https://iqiyizyapi.com/api.php/provide/vod" },
     { "name": "暴风", "address": "http://by.bfzyapi.com/api.php/provide/vod" },
-    { "name": "播剧网", "address": "https://www.ysxq.cc/api.php/provide/vod" },
+    { "name": "爱奇艺", "address": "https://iqiyizyapi.com/api.php/provide/vod" },
     { "name": "红牛", "address": "https://www.hongniuzy2.com/api.php/provide/vod" },
-    { "name": "樱花", "address": "https://m3u8.apiyhzy.com/api.php/provide/vod" },
     { "name": "量子", "address": "http://cj.lziapi.com/api.php/provide/vod" },
     { "name": "ikun", "address": "https://ikunzyapi.com/api.php/provide/vod" },
     { "name": "滴滴", "address": "https://api.ddapi.cc/api.php/provide/vod" },
@@ -88,8 +86,8 @@ t4: {
   list: [
     { "name": "电影天堂", "address": "https://php.doube.eu.org/spider/php/电影天堂.php" },
     { "name": "聚合", "address": "https://php.doube.eu.org/spider/php/麻豆.php" },
-    { "name": "官方", "address": "https://php.doube.eu.org/spider/php/官方资源.php" },
-    { "name": "非凡", "address": "https://php.doube.eu.org/spider/php/非凡资源.php" },
+    { "name": "欧乐", "address": "https://php.doube.eu.org/spider/php/欧乐影院.php" },
+    { "name": "影视", "address": "https://dy.7772888.xyz/api.php/tvbox" },
   ]
 },
   alist: [
