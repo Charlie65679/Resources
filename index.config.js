@@ -67,6 +67,14 @@ var index_config_default = {
           ],
     autoPush: true
   },
+t4: {
+  list: [
+    { "name": "电影天堂", "address": "https://php.doube.eu.org/spider/php/电影天堂.php" },
+    { "name": "聚合", "address": "https://php.doube.eu.org/spider/php/麻豆.php" },
+    { "name": "欧乐", "address": "https://php.doube.eu.org/spider/php/欧乐影院.php" },
+    { "name": "影视", "address": "https://dy.7772888.xyz/api.php/tvbox" },
+  ]
+},
 cms: {
   list: [
     { "name": "暴风", "address": "http://by.bfzyapi.com/api.php/provide/vod" },
@@ -80,14 +88,6 @@ cms: {
     { "name": "155", "address": "https://155api.com/api.php/provide/vod" },
     { "name": "AIvin", "address": "http://lbapiby.com/api.php/provide/vod/at/json" },
     { "name": "乐播", "address": "https://lbapi9.com/api.php/provide/vod" },
-  ]
-},
-t4: {
-  list: [
-    { "name": "电影天堂", "address": "https://php.doube.eu.org/spider/php/电影天堂.php" },
-    { "name": "聚合", "address": "https://php.doube.eu.org/spider/php/麻豆.php" },
-    { "name": "欧乐", "address": "https://php.doube.eu.org/spider/php/欧乐影院.php" },
-    { "name": "影视", "address": "https://dy.7772888.xyz/api.php/tvbox" },
   ]
 },
   alist: [
