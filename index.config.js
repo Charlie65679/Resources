@@ -69,6 +69,7 @@ var index_config_default = {
   },
 t4: {
   list: [
+    { "name": "荐片", "address": "http://zhangqun1818.serv00.net/jianpian1.php" },
     { "name": "影视", "address": "https://dy.7772888.xyz/api.php/tvbox" },
     { "name": "电影天堂", "address": "https://php.doube.eu.org/spider/php/电影天堂.php" },
     { "name": "聚合", "address": "https://php.doube.eu.org/spider/php/麻豆.php" },
