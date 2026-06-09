@@ -80,6 +80,7 @@ cms: {
     { "name": "暴风", "address": "http://by.bfzyapi.com/api.php/provide/vod" },
     { "name": "爱奇艺", "address": "https://iqiyizyapi.com/api.php/provide/vod" },
     { "name": "红牛", "address": "https://www.hongniuzy2.com/api.php/provide/vod" },
+    { "name": "蘑菇", "address": "https://www.5o5k.com/api.php/provide/vod" },
     { "name": "量子", "address": "http://cj.lziapi.com/api.php/provide/vod" },
     { "name": "ikun", "address": "https://ikunzyapi.com/api.php/provide/vod" },
     { "name": "滴滴", "address": "https://api.ddapi.cc/api.php/provide/vod" },
