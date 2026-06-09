@@ -64,9 +64,6 @@ var index_config_default = {
     urls: [
            { address: "https://logdanmu.dpdns.org", name: "默认1" },
            { address: "https://fjj0417.dpdns.org/87654321", name: "默认2" }, 
-             { address: "https://danmu.wangziyang.top/", name: "默认3" }, 
-           { address: "https://dandan.wenjian.de/wenjian", name: "默认4" }, 
-           { address: "https://danmu.0000996.xyz/87654321", name: "默认5" },
           ],
     autoPush: true
   },
@@ -79,8 +76,6 @@ cms: {
     { "name": "樱花", "address": "https://m3u8.apiyhzy.com/api.php/provide/vod" },
     { "name": "量子", "address": "http://cj.lziapi.com/api.php/provide/vod" },
     { "name": "ikun", "address": "https://ikunzyapi.com/api.php/provide/vod" },
-    { "name": "优质", "address": "http://api.yzzy-api.com/inc/apijson.php" },
-    { "name": "最大", "address": "http://zuidazy.me/api.php/provide/vod" },
     { "name": "滴滴", "address": "https://api.ddapi.cc/api.php/provide/vod" },
     { "name": "黑料", "address": "https://www.heiliaozyapi.com/api.php/provide/vod" },
     { "name": "番号", "address": "http://fhapi9.com/api.php/provide/vod" },
@@ -92,11 +87,9 @@ cms: {
 t4: {
   list: [
     { "name": "电影天堂", "address": "https://php.doube.eu.org/spider/php/电影天堂.php" },
-    { "name": "影视爬虫", "address": "https://dy.7772888.xyz/api.php/tvbox" },
     { "name": "聚合", "address": "https://php.doube.eu.org/spider/php/麻豆.php" },
     { "name": "官方", "address": "https://php.doube.eu.org/spider/php/官方资源.php" },
     { "name": "非凡", "address": "https://php.doube.eu.org/spider/php/非凡资源.php" },
-    { "name": "欧乐", "address": "https://php.doube.eu.org/spider/php/欧乐影院.php" },
   ]
 },
   alist: [
