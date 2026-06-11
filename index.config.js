@@ -96,41 +96,6 @@ cms: {
     { "name": "乐播", "address": "https://lbapi9.com/api.php/provide/vod" },
   ]
 },
-"vod": [
-      {
-      "name": "豆瓣",
-      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
-      "version": 4,
-      "remark": "",
-      "webSite": "https://movie.douban.com",
-      "codeID": "4r9lCCTjjoqI5sGDkzho2sNKSL2BQXpc",
-      "order": "A00",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Jian_douban2.txt",
-      "type": 101
-      },
-      {
-      "name": "瓜子",
-      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
-      "version": 4,
-      "remark": "",
-      "webSite": "http://api.gudvxty.com",
-      "instance": "gzys20240822",
-      "order": "B",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_gzys.js",
-      "type": 100
-      },
-     {
-      "name": "荐片",
-      "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
-      "version": 2,
-      "remark": "",
-      "webSite": "jianpian",
-      "codeID": "3UXc19H0H2Dzz4vJEO4yFIGCmKXIlfoM",
-      "order": "B",
-      "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_jianpian.txt",
-      "type": 101
-     },
-]
   alist: [
     {
       name: "🐉神族九帝",
