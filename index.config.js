@@ -62,8 +62,12 @@ var index_config_default = {
   },
    danmu: {
     urls: [
-           { address: "https://logdanmu.dpdns.org", name: "默认1" },
+           { address: "https://logo.saodu.work:8888/87654321", name: "默认1" },
            { address: "https://fjj0417.dpdns.org/87654321", name: "默认2" }, 
+           { address: "http://127.0.0.1:9321/87654321", name: "默认3" }, 
+           { address: "http://47.107.188.112:6008/87654321", name: "默认4" }, 
+           { address: "http://ecs.dysobo.cn:9321/87654321", name: "默认5" },
+           { address: "https://logdanmu.dpdns.org", name: "默认6" },
           ],
     autoPush: true
   },
