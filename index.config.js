@@ -74,20 +74,20 @@ var index_config_default = {
 t4: {
   list: [
     { "name": "荐片", "address": "http://zhangqun1818.serv00.net/jianpian1.php" },
-    { "name": "影视", "address": "https://dy.7772888.xyz/api.php/tvbox" },
+    { "name": "影视爬虫", "address": "https://dy.7772888.xyz/api.php/tvbox" },
     { "name": "电影天堂", "address": "https://php.doube.eu.org/spider/php/电影天堂.php" },
+    { "name": "独播影视", "address": "http://bob2.hkt.net.cn/miraplay/dbo.php" },
     { "name": "聚合", "address": "https://php.doube.eu.org/spider/php/麻豆.php" },
     { "name": "欧乐", "address": "https://php.doube.eu.org/spider/php/欧乐影院.php" },
   ]
 },
 cms: {
   list: [
+    { "name": "iQiYi", "address": "https://iqiyizyapi.com/api.php/provide/vod" },
+    { "name": "如意", "address": "https://cj.rycjapi.com/api.php/provide/vod"  },
     { "name": "暴风", "address": "http://by.bfzyapi.com/api.php/provide/vod" },
-    { "name": "爱奇艺", "address": "https://iqiyizyapi.com/api.php/provide/vod" },
     { "name": "红牛", "address": "https://www.hongniuzy2.com/api.php/provide/vod" },
     { "name": "蘑菇", "address": "https://www.5o5k.com/api.php/provide/vod" },
-    { "name": "量子", "address": "http://cj.lziapi.com/api.php/provide/vod" },
-    { "name": "ikun", "address": "https://ikunzyapi.com/api.php/provide/vod" },
     { "name": "滴滴", "address": "https://api.ddapi.cc/api.php/provide/vod" },
     { "name": "黑料", "address": "https://www.heiliaozyapi.com/api.php/provide/vod" },
     { "name": "番号", "address": "http://fhapi9.com/api.php/provide/vod" },
