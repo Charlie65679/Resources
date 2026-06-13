@@ -75,7 +75,6 @@ t4: {
   list: [
     { "name": "荐片", "address": "http://zhangqun1818.serv00.net/jianpian1.php" },
     { "name": "影视爬虫", "address": "https://dy.7772888.xyz/api.php/tvbox" },
-    { "name": "清风", "address": "http://sspa8.top:8100/php/清风.php" },
     { "name": "爱瓜", "address": "http://zhangqun1818.serv00.net/aigua1.php" },
     { "name": "电影天堂", "address": "https://php.doube.eu.org/spider/php/电影天堂.php" },
     { "name": "独播影视", "address": "http://bob2.hkt.net.cn/miraplay/dbo.php" },
