@@ -106,21 +106,6 @@ cms: {
       server: "https://ali.liucn.repl.co"
     }
   ],
-    //sites
-  sites: {
-    "list": [
-      {
-        "key": "nodejs_douban",
-        "name": "豆瓣¦推荐",
-        "enable": false
-      },
-      {
-        "key": "nodejs_baseset",
-        "name": "配置¦中心",
-        "enable": true
-      }
-    ]
-  },
   color: [
     {
       light: {
