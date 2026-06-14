@@ -85,6 +85,8 @@ t4: {
 cms: {
   list: [
     { "name": "iQiYi", "address": "https://iqiyizyapi.com/api.php/provide/vod" },
+    { "name": "艾旦", "address": "https://lovedan.net/api.php/provide/vod/" },
+    { "name": "天天", "address": "https://api.1080zyku.com/inc/apijson.php" },
     { "name": "如意", "address": "https://cj.rycjapi.com/api.php/provide/vod" },
     { "name": "暴风", "address": "http://by.bfzyapi.com/api.php/provide/vod" },
     { "name": "红牛", "address": "https://www.hongniuzy2.com/api.php/provide/vod" },
