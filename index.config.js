@@ -74,7 +74,6 @@ var index_config_default = {
 t4: {
   list: [
     { "name": "荐片", "address": "http://zhangqun1818.serv00.net/jianpian1.php" },
-    // { "name": "荐片备", "address": "http://zhangqun1818.serv00.net/jianpian.php" },
     { "name": "影视爬虫", "address": "https://dy.7772888.xyz/api.php/tvbox" },
     { "name": "爱瓜TV", "address": "http://zhangqun1818.serv00.net/aigua1.php" },
     { "name": "电影天堂", "address": "https://php.doube.eu.org/spider/php/电影天堂.php" },
@@ -86,8 +85,7 @@ t4: {
 cms: {
   list: [
     { "name": "iQiYi", "address": "https://iqiyizyapi.com/api.php/provide/vod" },
-    { "name": "艾旦", "address": "https://lovedan.net/api.php/provide/vod/" },
-    { "name": "天天", "address": "https://api.1080zyku.com/inc/apijson.php" },
+    { "name": "艾旦", "address": "https://lovedan.net/api.php/provide/vod" },
     { "name": "如意", "address": "https://cj.rycjapi.com/api.php/provide/vod" },
     { "name": "暴风", "address": "http://by.bfzyapi.com/api.php/provide/vod" },
     { "name": "红牛", "address": "https://www.hongniuzy2.com/api.php/provide/vod" },
