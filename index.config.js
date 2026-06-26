@@ -74,27 +74,27 @@ var index_config_default = {
 t4: {
   list: [
     { "name": "荐片", "address": "http://zhangqun1818.serv00.net/jianpian1.php" },
-    { "name": "荐片2", "address": "https://jp.jsnzkpg.ccwu.cc" },
+    // { "name": "荐片2", "address": "https://jp.jsnzkpg.ccwu.cc" },
     { "name": "影视爬虫", "address": "https://dy.7772888.xyz/api.php/tvbox" },
     { "name": "爱瓜TV", "address": "http://zhangqun1818.serv00.net/aigua1.php" },
-    { "name": "电影天堂", "address": "https://php.doube.eu.org/spider/php/电影天堂.php" },
+    // { "name": "电影天堂", "address": "https://php.doube.eu.org/spider/php/电影天堂.php" },
     { "name": "独播影视", "address": "http://bob2.hkt.net.cn/miraplay/dbo.php" },
-    { "name": "永乐影视", "address": "https://ylsp.jsnzkpg.ccwu.cc" },
-    { "name": "聚合", "address": "https://php.doube.eu.org/spider/php/麻豆.php" },
-    { "name": "欧乐", "address": "https://php.doube.eu.org/spider/php/欧乐影院.php" },
+    // { "name": "永乐影视", "address": "https://ylsp.jsnzkpg.ccwu.cc" },
+    // { "name": "聚合", "address": "https://php.doube.eu.org/spider/php/麻豆.php" },
+    // {"name": "欧乐", "address": "https://php.doube.eu.org/spider/php/欧乐影院.php" },
   ]
 },
 cms: {
   list: [
     { "name": "iQiYi", "address": "https://iqiyizyapi.com/api.php/provide/vod" },
-    { "name": "如意", "address": "https://cj.rycjapi.com/api.php/provide/vod" },
+    // { "name": "如意", "address": "https://cj.rycjapi.com/api.php/provide/vod" },
     { "name": "暴风", "address": "http://by.bfzyapi.com/api.php/provide/vod" },
     { "name": "红牛", "address": "https://www.hongniuzy2.com/api.php/provide/vod" },
-    { "name": "滴滴", "address": "https://api.ddapi.cc/api.php/provide/vod" },
+    // { "name": "滴滴", "address": "https://api.ddapi.cc/api.php/provide/vod" },
     { "name": "黑料", "address": "https://www.heiliaozyapi.com/api.php/provide/vod" },
     { "name": "番号", "address": "http://fhapi9.com/api.php/provide/vod" },
     { "name": "155", "address": "https://155api.com/api.php/provide/vod" },
-    { "name": "AIvin", "address": "http://lbapiby.com/api.php/provide/vod/at/json" },
+    // { "name": "AIvin", "address": "http://lbapiby.com/api.php/provide/vod/at/json" },
     { "name": "乐播", "address": "https://lbapi9.com/api.php/provide/vod" },
   ]
 },
