@@ -71,6 +71,18 @@ var index_config_default = {
           ],
     autoPush: true
   },
+sites: [
+    {
+      "key": "csp_douban",
+      "name": "🌕┃豆瓣┃推荐",
+      "type": 3,
+      "api": "csp_DouDou",
+      "jar": "./lib/fty.jar",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+],
 t4: {
   list: [
     { "name": "荐片", "address": "http://zhangqun1818.serv00.net/jianpian1.php" },
